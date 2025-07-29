@@ -1,4 +1,2 @@
 # trabajo-final-kotlin
-Integrantes:
-Dante Uchofen Morales
-Daniel Vidal Tineo
+Integrantes: Dante Uchofen Morales, Daniel Vidal Tineo
