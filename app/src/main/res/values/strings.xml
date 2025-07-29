@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PedidosAPP</string>
+    <string name="title_activity_editar_pedido">EditarPedidoActivity</string>
+    <string name="title_activity_pedidos_view">PedidosViewActivity</string>
+</resources>
